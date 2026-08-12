@@ -1,2 +1,5 @@
 user service created
 process user data 
+
+analyze and verify the user data
+take the steps accordingly 
